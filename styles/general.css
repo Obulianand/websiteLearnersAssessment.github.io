@@ -1,0 +1,13 @@
+p {
+    margin: 0px;
+    font-family: Montserrat, Arial;
+}
+
+body {
+    margin: 100px 0px 0px 0px;
+}
+
+.frame-navigate{
+    text-align: center;
+    text-decoration: underline;
+}
